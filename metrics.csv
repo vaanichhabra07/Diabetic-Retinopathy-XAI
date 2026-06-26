@@ -1,0 +1,10 @@
+Metric,Value
+Accuracy,0.9508
+Precision,0.9627
+Recall,0.9281
+Specificity,0.9698
+F1 Score,0.9451
+ROC-AUC,0.9852
+Brier Score,0.1216
+ECE,0.229
+Threshold,0.29

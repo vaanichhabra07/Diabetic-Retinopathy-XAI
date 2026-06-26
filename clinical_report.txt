@@ -1,0 +1,20 @@
+
+DIABETIC RETINOPATHY SCREENING REPORT
+
+Prediction:
+No Referable Diabetic Retinopathy
+
+Probability:
+0.2175
+
+Confidence:
+Medium
+
+Uncertainty:
+0.0800
+
+Threshold:
+0.29
+
+Recommendation:
+Routine diabetic eye screening.
